@@ -1,7 +1,7 @@
-# Anti-suicide-chatbot
+# MendingMinds ChatBot (Mood Enhancer ChatBot) 
 
-The algo is using a neural network of 16 neurons to predict the right output based on the input in the intents.json file witch contains some 
-responses that are ment to help people with mental health issues like addiction, suicidal problems, abuse and breakup problems.
+The algorithm uses a neural network of 16 neurons to predict the right output based on the input in the intents.json file witch contains some 
+responses that are ment to help people with mental health issues by mending their minds and enhancing their mood
 
 In the first part of the code, we are trainig the model on the intents.json file, then we fit and save the model using :
 
